@@ -45,6 +45,7 @@ When user click on logout icon his session has expired.
 
 Guest users can see only login and register pages.
 
-## Live Demo
+## to used
+you will go to firebase and create new project and copy the firebaseconfig and create firebaseconfig.js file then you will be able to used
 
-https://mazen-mohamed2.github.io/CURD_Firebase-app
+
